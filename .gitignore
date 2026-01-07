@@ -1,0 +1,11 @@
+# Ignore data and generated output
+data/
+output/
+archive/
+
+# Common Python ignores
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
